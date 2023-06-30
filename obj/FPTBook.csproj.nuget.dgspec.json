@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "e:\\UoG\\1670-Application Development\\FPTBook\\FPTBook.csproj": {}
+    "D:\\University\\Document\\In university\\Application Development 1670\\FPTBook\\FPTBook\\FPTBook.csproj": {}
   },
   "projects": {
-    "e:\\UoG\\1670-Application Development\\FPTBook\\FPTBook.csproj": {
+    "D:\\University\\Document\\In university\\Application Development 1670\\FPTBook\\FPTBook\\FPTBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\UoG\\1670-Application Development\\FPTBook\\FPTBook.csproj",
+        "projectUniqueName": "D:\\University\\Document\\In university\\Application Development 1670\\FPTBook\\FPTBook\\FPTBook.csproj",
         "projectName": "FPTBook",
-        "projectPath": "e:\\UoG\\1670-Application Development\\FPTBook\\FPTBook.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "e:\\UoG\\1670-Application Development\\FPTBook\\obj\\",
+        "projectPath": "D:\\University\\Document\\In university\\Application Development 1670\\FPTBook\\FPTBook\\FPTBook.csproj",
+        "packagesPath": "C:\\Users\\me\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Document\\In university\\Application Development 1670\\FPTBook\\FPTBook\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\me\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
